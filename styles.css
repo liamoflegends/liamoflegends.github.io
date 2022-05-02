@@ -1,0 +1,22 @@
+body {
+	background-image: url("https://cdn.discordapp.com/attachments/855415782744784907/968969427519414302/unknown.png");
+	font-family: "Comic Sans MS";
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+	background-color: white;
+	border: 5px solid black;
+}
+
+td {
+    border: 1px solid #333;
+	text-align: center;
+}
+
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
